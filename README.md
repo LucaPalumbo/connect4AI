@@ -1,5 +1,5 @@
 # connect4AI
-An *AMAZING* Artificial intellilgence to play _connect 4_
+An *AMAZING* Artificial intelligence to play _connect 4_
 
 
 Javascript implementation of _minimax algorithm_
